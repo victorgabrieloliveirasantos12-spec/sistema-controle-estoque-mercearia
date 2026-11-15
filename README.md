@@ -36,3 +36,5 @@ python app.py
 Execute os testes automatizados:
 
 pytest
+
+##Revisão técnica
