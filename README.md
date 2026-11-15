@@ -20,3 +20,19 @@ Facilitar o gerenciamento dos produtos e reduzir erros no controle de estoque.
 - Flask
 - PostgreSQL
 - Bootstrap
+
+## Como executar
+
+Instale as dependências:
+
+pip install -r requirements.txt
+
+Inicie o sistema:
+
+python app.py
+
+## Testes
+
+Execute os testes automatizados:
+
+pytest
