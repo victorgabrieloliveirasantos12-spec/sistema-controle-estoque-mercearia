@@ -36,3 +36,11 @@ python app.py
 Execute os testes automatizados:
 
 pytest
+
+## Revisão técnica
+
+O projeto utiliza Python e Flask para organizar
+as funcionalidades do sistema.
+
+A estrutura inicial foi organizada para facilitar
+a manutenção e futuras melhorias.
